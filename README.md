@@ -102,7 +102,7 @@ It’s designed as both a learning archive and a showcase of applied programming
 📬 Contact
 
 👤 Sayan Dasher
-📧 22052597@kiit.ac.in
+📧 2470309@kiit.ac.in
 
 🌐 GitHub Profile
 
